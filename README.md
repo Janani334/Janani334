@@ -16,7 +16,7 @@ Building practical skills through hands-on projects involving SQL, Microsoft Exc
 <p>
   <a href="https://www.linkedin.com/in/m--janani/">LinkedIn</a> •
   <a href="https://github.com/Janani334">GitHub</a> •
-  <a href="https://janani-portfolio-ruddy.vercel.app/">Portfolio</a>
+  <a href="https://jananimuruganportfolio.netlify.app/">Portfolio</a>
 </p>
 
 </div>
