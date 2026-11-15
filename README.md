@@ -269,7 +269,7 @@ I believe in strengthening my fundamentals through continuous learning and apply
   <a href="https://github.com/Janani334">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://janani-portfolio-ruddy.vercel.app/">
+  <a href="https://jananimuruganportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" alt="Portfolio"/>
   </a>
 </p>
